@@ -1,107 +1,112 @@
 # Hi, I'm Buddhbhushan Waghmare 👋
 
-💻 Backend Engineer | FastAPI | React | Docker | Industrial Systems  
+### 🚀 Backend Engineer | Industrial Systems | High-Performance Architecture
+
 📍 Mumbai, India  
-⚡ Building scalable, high-performance backend systems  
-
-![Profile Views](https://komarev.com/ghpvc/?username=BUDDHABHUSHAN23&color=blue)
+⚡ Building scalable, low-latency backend systems  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 About Me
 
-![Buddhabhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BUDDHABHUSHAN23&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BUDDHABHUSHAN23&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=BUDDHABHUSHAN23&theme=tokyonight)
-
----
-
-## 🚀 About Me
-
-I am a backend-focused software engineer with hands-on experience in building industrial data systems and scalable web applications.
+I design and build backend systems focused on scalability, performance, and real-world industrial use cases.
 
 - 🔹 Backend specialization in FastAPI
-- 🔹 Experience with PLC communication (Snap7)
-- 🔹 Time-series data processing using InfluxDB
+- 🔹 Industrial automation integration (PLC, Snap7)
+- 🔹 Time-series data processing (InfluxDB)
 - 🔹 Dockerized microservices architecture
-- 🔹 Full-stack development with React + FastAPI
-- 🔹 Strong interest in low-latency systems & performance engineering
-- 🔹 Actively improving DSA & system design skills (Java-focused)
+- 🔹 Full-stack development (React + FastAPI)
+- 🔹 Strong interest in HFT-level performance engineering
+- 🔹 Actively mastering DSA & system design (Java)
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-### Languages
-Java | Python | C++ | JavaScript  
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+</p>
 
-### Backend
-FastAPI | REST APIs | JWT Authentication | LDAP | Async Programming  
+### 🧩 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
 
-### Frontend
-React | TailwindCSS | HTML | CSS  
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
 
-### Databases
-MySQL | PostgreSQL | InfluxDB  
+### 🗄 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-### DevOps & Tools
-Docker | Docker Compose | Linux | Git | Grafana  
+### 🐳 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,grafana" />
+</p>
 
 ---
 
-## 🔍 Currently Working On
+## 📊 GitHub Analytics
 
-- 🚀 Advanced Data Structures & Algorithms (Java)
-- ⚡ Performance optimization & low-latency backend patterns
-- 🏗 Scalable FastAPI microservices architecture
-- 🧠 System Design fundamentals
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BUDDHABHUSHAN23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUDDHABHUSHAN23&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BUDDHABHUSHAN23&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🔥 Featured Engineering Projects
 
-### 🔹 Industrial Data Monitoring System
+### 🏭 Industrial Data Monitoring System
+A real-time industrial data platform for automation environments.
 
-A real-time industrial data processing platform designed for automation environments.
-
-**Key Features:**
-- Multi-PLC integration using Snap7
+- Multi-PLC communication via Snap7
 - High-frequency data ingestion
-- Time-series storage with InfluxDB
-- Real-time dashboards using Grafana
-- Fully Dockerized deployment
+- Time-series storage using InfluxDB
+- Dockerized container architecture
+- Real-time dashboards with Grafana
+- Async backend architecture for scalability
 
-**Engineering Focus:**
-- Asynchronous API handling
-- Scalable backend architecture
-- Containerized microservices
+---
 
+### 💰 Finance Tracking Application
+A secure full-stack expense management system.
 
-### 🔹 Finance Tracking App
-
-A full-stack personal finance management system.
-
-**Key Features:**
-- Secure authentication system
-- RESTful API architecture
-- Structured relational database design
+- RESTful backend design
+- Secure authentication (JWT)
+- Structured relational database
 - Responsive React frontend
+
+---
+
+## 🧠 Currently Exploring
+
+- ⚡ Low-latency backend design patterns
+- 🚀 Advanced Data Structures (Java)
+- 🏗 Distributed system fundamentals
+- 📈 Performance optimization strategies
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BUDDHABHUSHAN23&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BUDDHABHUSHAN23&theme=tokyo-night&hide_border=true"/>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: buddhabhushan.waghmare.13@gmail.com  
-🔗 LinkedIn: (Add your LinkedIn URL)
+📧 buddhabhushan.waghmare.13@gmail.com  
+🔗 Add your LinkedIn link here  
 
 ---
 
-⭐ Always learning. Always building. Always optimizing.
+⭐ Engineering systems. Optimizing performance. Building for scale.
