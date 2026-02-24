@@ -99,6 +99,7 @@ A secure full-stack expense management system.
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BUDDHABHUSHAN23&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BUDDHABHUSHAN23&theme=tokyonight&no-frame=true&row=1"/>
 
 ---
 
