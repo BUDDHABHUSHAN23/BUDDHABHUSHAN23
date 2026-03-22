@@ -357,21 +357,6 @@ class Engineer:
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--              WAKATIME / DEV METRICS (optional)           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## ⏱️ &nbsp;Weekly Dev Breakdown
-
-<!--START_SECTION:waka-->
-> 💡 Connect **WakaTime** to auto-populate your weekly coding stats here.
-> See: [waka-readme](https://github.com/athul/waka-readme)
-<!--END_SECTION:waka-->
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--                  PROFILE VIEWS + CONNECT                  -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
