@@ -13,6 +13,10 @@ on:
     branches:
       - main
 
+# ✅ THIS IS THE KEY FIX — grant write permissions to the token
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
