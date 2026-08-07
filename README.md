@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0817,50:1a0f3d,100:2d1b5e&height=160&section=header&text=Buddhabhushan%20Waghmare&fontSize=36&fontColor=e9d5ff&fontAlignY=40&desc=Full-Stack%20%2F%20AI-ML&descSize=15&descAlignY=58&descColor=c084fc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0817,50:1a0f3d,100:2d1b5e&height=150&section=header&text=Buddhabhushan%20Waghmare&fontSize=34&fontColor=e9d5ff&fontAlignY=40&desc=Full-Stack%20%2F%20AI-ML&descSize=15&descAlignY=58&descColor=c084fc"/>
 
 <a href="mailto:buddhabhushan.waghmare.13@gmail.com"><img src="https://img.shields.io/badge/Email-2d1b5e?style=flat-square&logo=gmail&logoColor=c084fc"/></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-2d1b5e?style=flat-square&logo=linkedin&logoColor=c084fc"/></a>
@@ -10,39 +10,88 @@
 
 <br/>
 
-I build full-stack products and applied-AI systems — React/Next.js on the front, FastAPI/Node on the back, LLMs and computer vision where they add real value.
+<!-- Stat cards -->
+<div align="center">
 
-**Focus right now:** edge-AI model compression (pruning, distillation, ONNX).
+<table>
+<tr>
+<td align="center" width="140">
+
+**1.5+**
+<br/>
+<sub>YEARS EXP</sub>
+
+</td>
+<td align="center" width="140">
+
+**6**
+<br/>
+<sub>CORE PROJECTS</sub>
+
+</td>
+<td align="center" width="140">
+
+**5+**
+<br/>
+<sub>LANGUAGES</sub>
+
+</td>
+<td align="center" width="140">
+
+**IN**
+<br/>
+<sub>NAVI MUMBAI</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-### Selected work
+### Contributions
 
-**Safety-critical detector compression** — YOLOv8 PPE detector benchmarked for how small it can get: distillation, pruning, quantization, ONNX export, backed by a FastAPI rule engine with spatial-grid debounce and live inference.
-`YOLOv8` `PyTorch` `ONNX` `FastAPI`
-
-**RAG over Berkshire Hathaway letters** — chunked, embedded, and retrieved grounded answers via GPT-4o.
-`TypeScript` `Mastra` `pgvector` `GPT-4o`
-
-**JKV Vlog Web** — Next.js site with GSAP animations and a Sanity CMS blog pipeline; multi-platform content ingestion.
-`Next.js` `GSAP` `Sanity CMS`
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BUDDHABHUSHAN23&show_icons=true&theme=radical&hide_border=true&bg_color=0d0817&title_color=c084fc&icon_color=c084fc&text_color=d4c2f0&ring_color=a855f7&hide_rank=true" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=BUDDHABHUSHAN23&theme=highcontrast&hide_border=true&background=0d0817&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=d4c2f0&dates=8b7aa8" height="150"/>
+</div>
 
 <br/>
 
-### How I work
+### Core technologies
 
-- Small, reviewable commits over big-bang PRs
-- Benchmark before optimizing — numbers over intuition
-- Document trade-offs, not just decisions
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-2d1b5e?style=flat-square&logo=typescript&logoColor=c084fc)
+![Python](https://img.shields.io/badge/Python-2d1b5e?style=flat-square&logo=python&logoColor=c084fc)
+![React](https://img.shields.io/badge/React-2d1b5e?style=flat-square&logo=react&logoColor=c084fc)
+![Next.js](https://img.shields.io/badge/Next.js-2d1b5e?style=flat-square&logo=nextdotjs&logoColor=c084fc)
+![Node.js](https://img.shields.io/badge/Node.js-2d1b5e?style=flat-square&logo=nodedotjs&logoColor=c084fc)
+![FastAPI](https://img.shields.io/badge/FastAPI-2d1b5e?style=flat-square&logo=fastapi&logoColor=c084fc)
+![PyTorch](https://img.shields.io/badge/PyTorch-2d1b5e?style=flat-square&logo=pytorch&logoColor=c084fc)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUDDHABHUSHAN23&layout=donut&theme=radical&hide_border=true&bg_color=0d0817&title_color=c084fc&text_color=d4c2f0&langs_count=6" height="180"/>
+
+</div>
 
 <br/>
 
-### Stack
+### Notable projects
 
-`TypeScript` `React` `Next.js` `Node.js` `Python` `FastAPI` `PostgreSQL` `MongoDB` `Docker` `PyTorch` `GPT-4o`
+| Project | Description | Stack |
+|---|---|---|
+| **PPE Detector Compression** | YOLOv8 safety-critical detector — pruned, distilled, quantized, ONNX-exported | `YOLOv8` `PyTorch` `ONNX` |
+| **RAG · Berkshire Letters** | Grounded Q&A over shareholder letters via chunked retrieval + GPT-4o | `TypeScript` `pgvector` `GPT-4o` |
+| **JKV Vlog Web** | Next.js site, GSAP animation, Sanity CMS blog pipeline | `Next.js` `GSAP` `Sanity` |
+| **CI/CD Pipeline** | Automated build/test/deploy for a FastAPI service | `FastAPI` `Docker` `Actions` |
 
 <br/>
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=BUDDHABHUSHAN23&show_icons=true&theme=radical&hide_border=true&bg_color=0d0817&title_color=c084fc&icon_color=c084fc&text_color=d4c2f0&ring_color=a855f7&hide_rank=true"/>
+<sub>Small, reviewable commits · benchmark before optimizing · document trade-offs</sub>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b5e,50:1a0f3d,100:0d0817&height=90&section=footer"/>
 </div>
