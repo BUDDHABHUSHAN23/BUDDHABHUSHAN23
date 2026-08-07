@@ -53,7 +53,6 @@
 ### Contributions
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BUDDHABHUSHAN23&show_icons=true&theme=radical&hide_border=true&bg_color=0d0817&title_color=c084fc&icon_color=c084fc&text_color=d4c2f0&ring_color=a855f7&hide_rank=true" height="150"/>
 <img src="https://streak-stats.demolab.com/?user=BUDDHABHUSHAN23&theme=highcontrast&hide_border=true&background=0d0817&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=d4c2f0&dates=8b7aa8" height="150"/>
 </div>
 
@@ -70,8 +69,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-2d1b5e?style=flat-square&logo=nodedotjs&logoColor=c084fc)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2d1b5e?style=flat-square&logo=fastapi&logoColor=c084fc)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2d1b5e?style=flat-square&logo=pytorch&logoColor=c084fc)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUDDHABHUSHAN23&layout=donut&theme=radical&hide_border=true&bg_color=0d0817&title_color=c084fc&text_color=d4c2f0&langs_count=6" height="180"/>
 
 </div>
 
