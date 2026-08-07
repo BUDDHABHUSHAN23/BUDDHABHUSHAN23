@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=c084fc&center=true&vCenter=true&width=600&height=40&lines=Real-time+systems+%7C+60%2C000%2B+concurrent+streams;RAG+%2B+LLM+integration+%7C+GPT-4o+%2B+pgvector;NLP+classification+%7C+95%25%2B+accuracy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=c084fc&center=true&vCenter=true&width=650&height=40&lines=Edge+AI+%2F+Model+Compression+%7C+YOLOv8+pruning+%26+distillation;RAG+%2B+LLM+integration+%7C+GPT-4o+%2B+pgvector;Full-stack+web+%7C+Next.js+%2B+GSAP+%2B+Sanity+CMS)](https://git.io/typing-svg)
 
 <a href="mailto:buddhabhushan.waghmare.13@gmail.com"><img src="https://img.shields.io/badge/Email-2d1b5e?style=for-the-badge&logo=gmail&logoColor=c084fc"/></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-2d1b5e?style=for-the-badge&logo=linkedin&logoColor=c084fc"/></a>
@@ -16,7 +16,7 @@
 
 ## About
 
-Full-stack developer specializing in real-time data systems and AI integration. 1.5+ years shipping production React/Node.js platforms end-to-end, with applied AI work in NLP classification and Retrieval-Augmented Generation.
+Full-stack developer (AI/ML focus) with 1.5+ years shipping production React/Node.js/FastAPI systems. Currently building edge-AI model compression pipelines and LLM-integrated web platforms.
 
 <br/>
 
@@ -26,16 +26,16 @@ Full-stack developer specializing in real-time data systems and AI integration. 
 <tr>
 <td width="50%" valign="top">
 
-**🔴 Real-Time Telemetry Platform**
-MQTT + WebSockets system processing **60,000+ concurrent data streams** for monitoring and anomaly detection — production, 24/7, zero downtime.
+**🛡️ Safety-Critical Detector Compression**
+YOLOv8-based PPE detection benchmark exploring how small a safety-critical model can get — distillation (YOLOv8s → YOLOv8n, mAP@0.5 0.653), pruning, quantization, ONNX export, plus a full FastAPI rule-engine backend with spatial-grid debounce and live inference feed.
 
-`MQTT` `WebSockets` `React` `FastAPI` `TimescaleDB` `Docker`
+`YOLOv8` `PyTorch` `ONNX` `FastAPI` `OpenCV`
 
 </td>
 <td width="50%" valign="top">
 
 **🟣 RAG Assistant — Berkshire Hathaway Letters**
-Retrieval-augmented Q&A system over shareholder letters — chunked, embedded, and retrieved grounded answers via GPT-4o.
+Retrieval-augmented Q&A over shareholder letters — chunked, embedded, and retrieved grounded answers via GPT-4o.
 
 `TypeScript` `Mastra` `pgvector` `GPT-4o`
 
@@ -44,18 +44,18 @@ Retrieval-augmented Q&A system over shareholder letters — chunked, embedded, a
 <tr>
 <td width="50%" valign="top">
 
-**🧠 NLP Profanity Classifier**
-Supervised text classification model — **95%+ accuracy** on multilingual data using TF-IDF and NLTK preprocessing.
+**🎬 JKV Vlog Web Platform**
+Next.js client with GSAP-driven animations, a custom ShowcaseHero component, and a Sanity CMS-backed blog pipeline; multi-platform content ingestion (Instagram/Facebook/TikTok adapter pattern).
 
-`Python` `Scikit-learn` `NLTK`
+`Next.js` `GSAP` `Sanity CMS` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Production ERP & CI/CD**
-Full-stack ERP module with JWT role-based access control; GitHub Actions pipeline cut infra setup time by **~60%**.
+**⚙️ CI/CD Pipeline**
+FastAPI service with a GitHub Actions + Docker deployment pipeline for automated build, test, and release.
 
-`Node.js` `MongoDB` `GitHub Actions`
+`FastAPI` `Docker` `GitHub Actions`
 
 </td>
 </tr>
@@ -72,27 +72,30 @@ Full-stack ERP module with JWT role-based access control; GitHub Actions pipelin
 ![Next.js](https://img.shields.io/badge/Next.js-2d1b5e?style=flat-square&logo=nextdotjs&logoColor=c084fc)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2d1b5e?style=flat-square&logo=typescript&logoColor=c084fc)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-2d1b5e?style=flat-square&logo=tailwindcss&logoColor=c084fc)
+![GSAP](https://img.shields.io/badge/GSAP-2d1b5e?style=flat-square&logo=greensock&logoColor=c084fc)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-2d1b5e?style=flat-square&logo=nodedotjs&logoColor=c084fc)
 ![Express](https://img.shields.io/badge/Express.js-2d1b5e?style=flat-square&logo=express&logoColor=c084fc)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2d1b5e?style=flat-square&logo=fastapi&logoColor=c084fc)
+![Python](https://img.shields.io/badge/Python-2d1b5e?style=flat-square&logo=python&logoColor=c084fc)
 
 **Data**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d1b5e?style=flat-square&logo=postgresql&logoColor=c084fc)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2d1b5e?style=flat-square&logo=mongodb&logoColor=c084fc)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-2d1b5e?style=flat-square&logo=influxdb&logoColor=c084fc)
+![Redis](https://img.shields.io/badge/Redis-2d1b5e?style=flat-square&logo=redis&logoColor=c084fc)
 
 **Infra**
 ![Docker](https://img.shields.io/badge/Docker-2d1b5e?style=flat-square&logo=docker&logoColor=c084fc)
-![Redis](https://img.shields.io/badge/Redis-2d1b5e?style=flat-square&logo=redis&logoColor=c084fc)
-![Nginx](https://img.shields.io/badge/Nginx-2d1b5e?style=flat-square&logo=nginx&logoColor=c084fc)
 ![AWS](https://img.shields.io/badge/AWS_S3-2d1b5e?style=flat-square&logo=amazonaws&logoColor=c084fc)
+![Nginx](https://img.shields.io/badge/Nginx-2d1b5e?style=flat-square&logo=nginx&logoColor=c084fc)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2d1b5e?style=flat-square&logo=githubactions&logoColor=c084fc)
 
 **AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-2d1b5e?style=flat-square&logo=pytorch&logoColor=c084fc)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-2d1b5e?style=flat-square&logo=ultralytics&logoColor=c084fc)
 ![GPT-4o](https://img.shields.io/badge/GPT--4o-2d1b5e?style=flat-square&logo=openai&logoColor=c084fc)
 ![pgvector](https://img.shields.io/badge/pgvector-2d1b5e?style=flat-square&logo=postgresql&logoColor=c084fc)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2d1b5e?style=flat-square&logo=scikitlearn&logoColor=c084fc)
 
 </div>
 
@@ -115,7 +118,7 @@ Full-stack ERP module with JWT role-based access control; GitHub Actions pipelin
 
 ## Background
 
-B.E. Computer Engineering, University of Mumbai. Worked across IIoT, ERP, and AI-integration projects with Vision Mechatronics, Consulta Technologies, and Ketsol. Currently freelancing as **Nexora Dev** while deepening AI/ML and system-design skills.
+B.E. Computer Engineering, University of Mumbai. Contract experience across Vision Mechatronics, Consulta Technologies, and Ketsol, spanning full-stack web development, RAG/LLM integration, and applied ML. Active in Mumbai's tech community (GDG, MumPy, hackathons).
 
 <br/>
 
