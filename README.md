@@ -10,42 +10,35 @@
 
 <br/>
 
-<!-- Stat cards -->
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="140">
 
 **1.5+**
-<br/>
-<sub>YEARS EXP</sub>
+<br/><sub>YEARS EXP</sub>
 
 </td>
 <td align="center" width="140">
 
 **6**
-<br/>
-<sub>CORE PROJECTS</sub>
+<br/><sub>CORE PROJECTS</sub>
 
 </td>
 <td align="center" width="140">
 
 **5+**
-<br/>
-<sub>LANGUAGES</sub>
+<br/><sub>LANGUAGES</sub>
 
 </td>
 <td align="center" width="140">
 
 **IN**
-<br/>
-<sub>NAVI MUMBAI</sub>
+<br/><sub>NAVI MUMBAI</sub>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
@@ -54,6 +47,8 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=BUDDHABHUSHAN23&theme=highcontrast&hide_border=true&background=0d0817&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=d4c2f0&dates=8b7aa8" height="150"/>
+<br/>
+<img src="https://ghchart.rshah.org/c084fc/BUDDHABHUSHAN23" width="90%"/>
 </div>
 
 <br/>
@@ -61,27 +56,55 @@
 ### Core technologies
 
 <div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-2d1b5e?style=flat-square&logo=typescript&logoColor=c084fc)
-![Python](https://img.shields.io/badge/Python-2d1b5e?style=flat-square&logo=python&logoColor=c084fc)
-![React](https://img.shields.io/badge/React-2d1b5e?style=flat-square&logo=react&logoColor=c084fc)
-![Next.js](https://img.shields.io/badge/Next.js-2d1b5e?style=flat-square&logo=nextdotjs&logoColor=c084fc)
-![Node.js](https://img.shields.io/badge/Node.js-2d1b5e?style=flat-square&logo=nodedotjs&logoColor=c084fc)
-![FastAPI](https://img.shields.io/badge/FastAPI-2d1b5e?style=flat-square&logo=fastapi&logoColor=c084fc)
-![PyTorch](https://img.shields.io/badge/PyTorch-2d1b5e?style=flat-square&logo=pytorch&logoColor=c084fc)
-
+<img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,fastapi,pytorch,docker&theme=dark" />
 </div>
 
 <br/>
 
 ### Notable projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **PPE Detector Compression** | YOLOv8 safety-critical detector — pruned, distilled, quantized, ONNX-exported | `YOLOv8` `PyTorch` `ONNX` |
-| **RAG · Berkshire Letters** | Grounded Q&A over shareholder letters via chunked retrieval + GPT-4o | `TypeScript` `pgvector` `GPT-4o` |
-| **JKV Vlog Web** | Next.js site, GSAP animation, Sanity CMS blog pipeline | `Next.js` `GSAP` `Sanity` |
-| **CI/CD Pipeline** | Automated build/test/deploy for a FastAPI service | `FastAPI` `Docker` `Actions` |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ PPE Detector Compression**
+<br/>
+YOLOv8 safety-critical detector — pruned, distilled, quantized, ONNX-exported.
+<br/><br/>
+`YOLOv8` `PyTorch` `ONNX`
+
+</td>
+<td width="50%" valign="top">
+
+**📚 RAG · Berkshire Letters**
+<br/>
+Grounded Q&A over shareholder letters via chunked retrieval + GPT-4o.
+<br/><br/>
+`TypeScript` `pgvector` `GPT-4o`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎬 JKV Vlog Web**
+<br/>
+Next.js site, GSAP animation, Sanity CMS blog pipeline.
+<br/><br/>
+`Next.js` `GSAP` `Sanity`
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ CI/CD Pipeline**
+<br/>
+Automated build/test/deploy for a FastAPI service.
+<br/><br/>
+`FastAPI` `Docker` `Actions`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
